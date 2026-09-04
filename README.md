@@ -4,18 +4,22 @@ This repository contains my solutions to LeetCode problems, automatically synced
 
 ## 👩‍💻 About
 
-I am a B.Tech Artificial Intelligence and Data Science student currently practicing Data Structures and Algorithms through LeetCode.
+I am a B.Tech Artificial Intelligence and Data Science student currently learning Java and Data Structures and Algorithms (DSA).
 
-My goal is to improve my problem-solving skills and develop efficient solutions.
+I started solving LeetCode problems to improve my problem-solving skills, strengthen my programming fundamentals, and learn efficient approaches to solve problems.
 
 ## 💻 Language
 
 - Java
 
-## 🚀 Progress
+## 🚀 Learning Journey
 
-I regularly solve LeetCode problems and sync my accepted solutions to this repository using LeetSync.
+Currently focusing on:
+- Java
+- Data Structures and Algorithms (DSA)
+- Problem Solving
+- LeetCode
 
 ---
 
-⭐ This repository is a record of my DSA learning journey.
+⭐ This repository documents my DSA and problem-solving journey.
