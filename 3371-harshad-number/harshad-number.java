@@ -3,6 +3,7 @@ class Solution {
         int num = x;
         int digit=0;
         int sum=0;
+        int n=-1;
         while(num>0){
            digit=num%10;
            sum=sum+digit;
@@ -11,6 +12,6 @@ class Solution {
         if(x%sum ==0){
             return sum;
         }
-        return -1;
+        return n;
     }
 }
